@@ -9,8 +9,8 @@ description: >-
   allowed to buy all the ingredients needed to make his toxin. His son would not
   have to suffer at the hands of the one person who should love him
   unconditionally.
-dateModified: '2016-06-17T16:18:38.401Z'
-datePublished: '2016-06-17T16:45:45.718Z'
+dateModified: '2016-06-17T18:12:12.621Z'
+datePublished: '2016-06-17T18:13:20.702Z'
 title: The Pharmacist
 author:
   - name: Clay M. Cooper
