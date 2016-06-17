@@ -1,7 +1,7 @@
 ---
 description: The Demon Under the Microscope - Thomas Hagar
-dateModified: '2016-06-17T16:17:00.936Z'
-datePublished: '2016-06-17T16:17:02.726Z'
+dateModified: '2016-06-17T16:44:58.652Z'
+datePublished: '2016-06-17T16:45:14.991Z'
 title: 5 Books Every Pharmacist Should Read
 author:
   - name: Clay M. Cooper
