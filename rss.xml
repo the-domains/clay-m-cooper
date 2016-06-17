@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Clay M. Cooper]]></title>
-        <description><![CDATA[Clay M. Cooper]]></description>
+        <title><![CDATA[Pharmacist. Author. Entrepreneur]]></title>
+        <description><![CDATA[Pharmacist. Author. Entrepreneur]]></description>
         <link>https://thegrid.ai/clay-m-cooper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 16:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 20:19:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clay-m-cooper/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/clay-m-cooper/f3d50875-2543-48bf-afe0-77628dcc496b/index.html</link>
             <guid isPermaLink="false">f3d50875-2543-48bf-afe0-77628dcc496b</guid>
             <pubDate>Fri, 17 Jun 2016 16:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e33233a3-c380-4ff8-9608-ac339fe4071a.jpg">]]></description>
+            <link>https://thegrid.ai/clay-m-cooper/62e33b45-7e30-4887-8694-85da4fd52b63/index.html</link>
+            <guid isPermaLink="false">62e33b45-7e30-4887-8694-85da4fd52b63</guid>
+            <pubDate>Fri, 17 Jun 2016 20:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amputee Gets Awesome Metal Gear Solid Bionic Arm]]></title>
+            <description><![CDATA[<article><h1>Amputee Gets Awesome Metal Gear Solid Bionic Arm</h1><p>James Young, a man from the UK was in a freak accident with a train a few years back that led to him losing his left arm and leg. James was an avid video game player and he happened on an ad from game firm Konami looking for an amputee to try out a slick new prosthetic arm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a7ea2201addbda841a370e4d78ef4d0b6c992cc.jpg"></article>]]></description>
+            <link>http://technabob.com/blog/2016/05/18/amputee-gets-bionic-arm/?utm_campaign=trueAnthem:+Trending+Content&amp;utm_content=5745b3a104d3015a40b44246&amp;utm_medium=trueAnthem&amp;utm_source=facebook</link>
+            <guid isPermaLink="false">c77331d7-ccbc-4ff8-98be-3588b9fef52a</guid>
+            <pubDate>Fri, 17 Jun 2016 16:46:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biotech Given Permission To Attempt To Wake Up The Brain After Death]]></title>
@@ -61,13 +75,6 @@
             <link>https://youtu.be/RocCNvDAEuc</link>
             <guid isPermaLink="false">d366151a-f000-45a0-9947-9514b2f392d8</guid>
             <pubDate>Thu, 09 Jun 2016 00:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charity Challenges]]></title>
-            <description><![CDATA[<article><h1>Charity Challenges</h1><p>Join us and participate in challenges that benefit charities. Earn patches and make a difference in the lives of others!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b30dbecba5e8321e59e74323abffe002d2ed172.png"></article>]]></description>
-            <link>http://charitychallenges.net/</link>
-            <guid isPermaLink="false">07e5f75e-e75d-402a-a6c1-312a4ebd7137</guid>
-            <pubDate>Mon, 06 Jun 2016 16:26:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
