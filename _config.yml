@@ -1,17 +1,16 @@
-typography_spectrum: 0.2654143332038075
 color:
+  brandColors:
+    - '#FFFFFF'
+    - '#00216B'
+    - '#6C807F'
+    - '#FFFFFB'
+    - '#FEFFFB'
   brandStrength: 0.5454845377244055
   lightness: 0.9186031194403768
-  saturation: 0.4063723317813128
   rhythmicContrast: 0.14115616702474654
-  brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+  saturation: 0.4063723317813128
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe497101-4f7b-4423-b0ef-9fdbb262be92.jpg
 layout_spectrum: 0.6482670910190791
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c022706-e45f-499d-9d61-f694d542f98f.jpg'
 name: Clay M. Cooper
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe497101-4f7b-4423-b0ef-9fdbb262be92.jpg'
-title: Pharmacist. Author. Entrepreneur
+typography_spectrum: 0.2654143332038075
