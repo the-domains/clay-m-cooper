@@ -1,13 +1,21 @@
 ---
-description: ' Finding a balance is something I''m sure all entrepreneurs struggle with. When I first explored this idea, my writing was pushing the blame off on other people. It started out that entrepreneurship is hard work (which it is) and it''s hard to explain to people who don''t have the same mindset as us (which is also true). I wanted to say that the struggle comes when my family and friends don''t understand. They don''t get that all my sacrifice is for us, for giving our family a better opportunity. If they could only see things the way I see things, I would come home every day to a ticker tape parade and the biggest #1 Dad coffee mug ever created. '
-dateModified: '2016-06-17T16:54:55.585Z'
-datePublished: '2016-06-17T16:55:08.300Z'
+description: >-
+  Finding a balance is something I'm sure all entrepreneurs struggle with. When
+  I first explored this idea, my writing was pushing the blame off on other
+  people. It started out that entrepreneurship is hard work (which it is) and
+  it's hard to explain to people who don't have the same mindset as us (which is
+  also true). I wanted to say that the struggle comes when my family and friends
+  don't understand. They don't get that all my sacrifice is for us, for giving
+  our family a better opportunity. If they could only see things the way I see
+  things, I would come home every day to a ticker tape parade and the biggest #1
+  Dad coffee mug ever created.
+dateModified: '2016-06-17T16:56:07.528Z'
+datePublished: '2016-06-17T18:06:54.835Z'
 title: 'Finding the Balance: Entrepreneur vs. Family Man'
 author:
-  '0':
-    name: Clay M. Cooper
-starred: false
+  - name: Clay M. Cooper
 sourcePath: _posts/2016-06-17-finding-the-balance-entrepreneur-vs-family-man.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
