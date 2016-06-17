@@ -1,12 +1,16 @@
 ---
-description: ''
-dateModified: '2016-06-17T16:42:50.972Z'
-datePublished: '2016-06-17T16:43:39.642Z'
+description: >-
+  Today I took a trip through the southern part of Tennessee. The area we drove
+  through is very rural, and I wondered how people make a living out here. They
+  couldn’t all be farmers, we saw no factories or major industrial areas, and
+  the towns along the way were no beacons of economic development.
+dateModified: '2016-06-17T18:07:21.897Z'
+datePublished: '2016-06-17T18:07:28.072Z'
 title: The New American Dream
 author:
   - name: Clay M. Cooper
-starred: false
 sourcePath: _posts/2016-06-17-the-new-american-dream.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -31,7 +35,7 @@ What would our Founders say about the society we have "created"? What would Linc
 
 ### Is Entrepreneurship Real?
 
-Entrepreneurship is more than being a small business owner. It is more than selling some "get rich quick" scheme. It's more than creating a product to sell to would-be entrepreneurs that teach would-be entrepreneurs how to sell products to new would-be entrepreneurs. It's about creating legacy, creating sustainability, creating more for life. But that's all I've seen lately. My Facebook feed is covered with posts about the 3 easy steps to success and my Twitter accounts are followed by people promising me the secrets to growing my business and making 10k by next weekend. 
+Entrepreneurship is more than being a small business owner. It is more than selling some "get rich quick" scheme. It's more than creating a product to sell to would-be entrepreneurs that teach would-be entrepreneurs how to sell products to new would-be entrepreneurs. It's about creating legacy, creating sustainability, creating more for life. But that's all I've seen lately. My Facebook feed is covered with posts about the 3 easy steps to success and my Twitter accounts are followed by people promising me the secrets to growing my business and making 10k by next weekend.
 
 ### Wrap It Up, Buttercup
 
