@@ -1,14 +1,12 @@
 ---
-author:
-  - name: Rolls-Royce Motor Cars
-    url: 'https://www.youtube.com/user/RollsRoyceMotorCars'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+dateModified: '2016-06-25T13:16:10.450Z'
+datePublished: '2016-06-25T22:32:55.477Z'
+description: >-
+  For over 100 years, Rolls-Royce has been pushing the boundaries of art and
+  engineering. Now, we have imagined the future. But we didn't stop there - we
+  built it. Discover Rolls-Royce 103EX: http://bit.ly/239RcqJ
+inLanguage: en
+isBasedOnUrl: 'https://youtu.be/dGSm082ELXY'
 keywords:
   - rolls-royce
   - duration
@@ -20,60 +18,23 @@ keywords:
   - exterior
   - vision
   - ghost
-description: >-
-  For over 100 years, Rolls-Royce has been pushing the boundaries of art and
-  engineering. Now, we have imagined the future. But we didn't stop there - we
-  built it. Discover Rolls-Royce 103EX: http://bit.ly/239RcqJ
-inLanguage: en
-app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=dGSm082ELXY&feature=applinks'
-    type: ios
-    namespace: ai
-    app_store_id: '544007664'
-    app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=dGSm082ELXY&feature=applinks'
-    type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=dGSm082ELXY&feature=applinks'
-    type: web
-    namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=dGSm082ELXY&feature=applinks'
-    namespace: twitter
-    type: ipad
-    name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=dGSm082ELXY&feature=applinks'
-    namespace: twitter
-    type: iphone
-    name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=dGSm082ELXY'
-    namespace: twitter
-    type: googleplay
-    name: YouTube
-    id: com.google.android.youtube
-  - path: http/www.youtube.com/watch?v=dGSm082ELXY
-    package: com.google.android.youtube
-    namespace: google
-    type: android
-  - path: vnd.youtube/www.youtube.com/watch?v=dGSm082ELXY
-    package: '544007664'
-    namespace: google
-    type: ios
-isBasedOnUrl: 'https://youtu.be/dGSm082ELXY'
+publisher:
+  domain: youtu.be
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  name: YouTube
+  url: 'https://www.youtube.com/'
 title: The visionary Rolls-Royce 103EX. Journey into the future of luxury.
-datePublished: '2016-06-20T16:17:04.686Z'
-dateModified: '2016-06-20T16:16:58.652Z'
+author: []
 starred: false
 sourcePath: >-
   _posts/2016-06-20-the-visionary-rolls-royce-103ex-journey-into-the-future-of.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdGSm082ELXY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdGSm082ELXY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdGSm082ELXY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https://www.youtube.com/embed/dGSm082ELXY?feature=oembed&amp;url=http://www.youtube.com/watch?v=dGSm082ELXY&amp;image=https://i.ytimg.com/vi/dGSm082ELXY/hqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text/html&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+*
