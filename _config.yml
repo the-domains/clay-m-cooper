@@ -1,16 +1,16 @@
-typography_spectrum: 0.2654143332038075
+typography_spectrum: 0.2518860134296119
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#00216B'
-    - '#6C807F'
-    - '#FFFFFB'
-    - '#FEFFFB'
-  brandStrength: 0.5454845377244055
-  lightness: 0.9186031194403768
-  rhythmicContrast: 0.14115616702474654
-  saturation: 0.4063723317813128
-layout_spectrum: 0.6482670910190791
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+  brandStrength: 0.40811886126175523
+  lightness: 0.3209399732295424
+  rhythmicContrast: 0.14895983366295695
+  saturation: 0.6264137413818389
+layout_spectrum: 0.25027065770700574
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd260808-34d2-46ea-8be4-c14335bf0e41.jpg
 name: Clay M. Cooper
