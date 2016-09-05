@@ -9,17 +9,17 @@ description: >-
   our family a better opportunity. If they could only see things the way I see
   things, I would come home every day to a ticker tape parade and the biggest #1
   Dad coffee mug ever created.
-dateModified: '2016-06-17T16:56:07.528Z'
-datePublished: '2016-06-17T18:06:54.835Z'
+dateModified: '2016-09-02T02:12:20.527Z'
+datePublished: '2016-09-02T02:12:24.493Z'
 title: 'Finding the Balance: Entrepreneur vs. Family Man'
 author:
   - name: Clay M. Cooper
 sourcePath: _posts/2016-06-17-finding-the-balance-entrepreneur-vs-family-man.md
-starred: false
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+publisher: {}
+via: {}
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7487888-781f-4ffb-9a5f-fe3ce5d12fce.jpg)
