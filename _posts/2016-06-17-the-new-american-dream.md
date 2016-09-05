@@ -1,20 +1,20 @@
 ---
+datePublished: '2016-09-02T02:13:05.157Z'
+sourcePath: _posts/2016-06-17-the-new-american-dream.md
+inFeed: true
+author:
+  - name: Clay M. Cooper
+via: {}
+dateModified: '2016-09-02T02:13:04.723Z'
+title: The New American Dream
+publisher: {}
 description: >-
   Today I took a trip through the southern part of Tennessee. The area we drove
   through is very rural, and I wondered how people make a living out here. They
   couldn’t all be farmers, we saw no factories or major industrial areas, and
   the towns along the way were no beacons of economic development.
-dateModified: '2016-06-17T18:07:21.897Z'
-datePublished: '2016-06-17T18:07:28.072Z'
-title: The New American Dream
-author:
-  - name: Clay M. Cooper
-sourcePath: _posts/2016-06-17-the-new-american-dream.md
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a931cb35-1964-4e05-824c-e16bc3b3b7f1.jpg)
